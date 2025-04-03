@@ -1,6 +1,5 @@
 # AI-Powered-Navigation-System-for-Autonomous-Vehicles
 **Real-time object detection and navigation mapping using YOLOv3 and OpenCV**  
-
 ## **Overview**  
 This project applies **computer vision** to autonomous driving by using **YOLOv3** and **OpenCV** to create a **live navigation map** from a dashcam feed. The system detects **cars and pedestrians**, maps them to their respective lanes, and provides a scaled distance representation for better situational awareness.  
 
@@ -25,9 +24,6 @@ pip install -r requirements.txt
 🔗 [YOLO Weights](https://pjreddie.com/darknet/yolo/) -> Place in the project folder.  
 
 
-
-Move the weights file to the project directory.  
-
 ## **Usage**  
 Run the script to start the navigation system:  
 ```sh
@@ -35,11 +31,20 @@ python AI_Driven_Dashcam_Navigation.py
 ```
 
 ## **Future Improvements**
- 1) Optimize Object Detection – Modify YOLO to detect only relevant objects for autonomous navigation.
- 2) Boost Performance – Train a custom lightweight model to achieve higher FPS.
- 3) Enhanced Visualization – Improve the mapping system to provide better driving insights. 
+ 1) Optimize Object Detection: Modify YOLO to detect only relevant objects for autonomous navigation.
+ 2) Boost Performance: Train a custom lightweight model to achieve higher FPS.
+ 3) Enhanced Visualization: Improve the mapping system to provide better driving insights. 
 
 ## **Demo**  
-🚀 A sample demo video will be added soon.  
+
+
+https://github.com/user-attachments/assets/df0f5ca9-ad17-45d4-8168-e31813343314
+
+
+
+
+
+
+
 
 
